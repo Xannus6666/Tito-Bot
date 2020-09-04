@@ -7,6 +7,8 @@
 Tito bot is a simple discord bot with various commands. Tito bot has db functionalities that include a levelling system and an economy system. It also has moderation, voice, fun and social commands.
 Tito bot was made with python's discord.py rewrite library and it uses MongoDB as database.
 
+![Tito](imgs/img2.PNG)
+
 ### Bot Invite:
 
 Im currently hosting the bot on heroku. The bot is on 24/7 but some days could be offline for no free hours.
