@@ -1,0 +1,5 @@
+discord.py[voice]
+pymongo[srv]
+pyperclip
+youtube_dl
+aiohttp
