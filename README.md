@@ -25,7 +25,11 @@ First of all, install all the libraries needed to execute bot.py:
 Go to the terminal and type: 
 
 > cd "directory in which the bot is installed."
+
+
 > pip install requirements.txt
+
+![install requirements](imgs/img1.PNG)
 
 After that:
 
