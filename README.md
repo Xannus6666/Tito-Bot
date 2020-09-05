@@ -377,3 +377,8 @@ Picture of random dog.
 
 ---
 
+
+---
+
+
+Licensed under : [MIT LICENSE](LICENSE)
